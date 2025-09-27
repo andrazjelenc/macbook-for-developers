@@ -67,3 +67,22 @@ In my Documents I have folder `iso` with ISO images that I use as install media.
 
 ## Text Editor - VSCode
 For general development I like [VSCode](https://code.visualstudio.com/docs/setup/mac). Thing that I really like is moving to repo in terminal and opening it using `code .` command.
+
+## Folders structure for Git repos
+When we have a lot of Git repos on our Gitlab or similar site, we usually organize them in folders. I like to keep this structure also on my MacBook. So in Documents I have folders something like this:
+
+- github.com
+  - andrazjelenc
+    - macbook-for-developers
+    - andrazjelenc.github.io
+- gitlab.company.com
+  - folder A
+    - repo 1
+    - repo 2
+  - folder B
+    - repo 3
+
+This way I can easily copy path from URL in Browser and use it in `cd <path>` command to move to certain repo. Then open folder in VSCode with just `code .` and commit is not far away.
+
+## Browser - Brave
+I like [Brave](https://brave.com/) as there are a little less Ads everywhere. Also I like to have my tabs on the left side instead on the top.
